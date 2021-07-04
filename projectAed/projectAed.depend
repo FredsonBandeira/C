@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1625404929 source:d:\projectaed\turma.c
+	"Turma.h"
+
+1625404736 d:\projectaed\turma.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625407044 source:d:\projectaed\main.c
+	"Turma.h"
+
